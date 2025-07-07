@@ -4,6 +4,12 @@ Builds on https://github.com/minimaxir/mtg-embeddings which used gte-modernbert-
 
 This project expands on mtg-embeddings by fine tuning gte-modernbert-base with magic the gathering specific relationships. In addition to card-to-card relationships, query-to-card relationships will also be modeled. This will allow natural language searches to be performed in addition to searches by card name.
 
+# MTGJSON Dataset
+
+Download parquet files from [https://mtgjson.com/downloads/all-files/#allprintingscsvfiles](https://mtgjson.com/downloads/all-files/#allprintingsparquetfiles)
+
+Run https://github.com/minimaxir/mtg-embeddings/blob/main/mtgjson_etl.ipynb to generate transformed magic card data in mtg_data.parquet (update file paths as needed for your system)
+
 # Magic The Gathering Domain Specific Embedding Model
 
 Use a two stage approach to create a Magic The Gathering Domain specific embedding model. 

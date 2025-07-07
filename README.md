@@ -4,6 +4,8 @@ Builds on https://github.com/minimaxir/mtg-embeddings which used gte-modernbert-
 
 This project expands on mtg-embeddings by fine tuning gte-modernbert-base with magic the gathering specific relationships. In addition to card-to-card relationships, query-to-card relationships will also be modeled. This will allow natural language searches to be performed in addition to searches by card name.
 
+There are some other existing efforts to create semantic search for Magic The Gathering. These include kairosmithy.com and cardmystic.io. I was unable to evaluate cardmystic.io because api calls for search were failing and so no results were returned. The vue frontend is open source https://github.com/CardMystic/cardmystic. From the youtube video https://www.youtube.com/watch?v=akmSqk5z32k it appeared to be a base model not finetuned on magic the gathering. kairosmithy.com is functional and mentions being under active development. It seems clear from the examples I tried that it is also using a base model with no specific magic the gathering knowledge.
+
 # MTGJSON Dataset
 
 Download parquet files from [https://mtgjson.com/downloads/all-files/#allprintingscsvfiles](https://mtgjson.com/downloads/all-files/#allprintingsparquetfiles)

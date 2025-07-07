@@ -10,7 +10,7 @@ Use a two stage approach to create a Magic The Gathering Domain specific embeddi
 
 ## Stage 1: Self-Supervised Domain Adaptation
 
-Use Masked Language Modeling self-supervised learning on Magic The Gathering json card corpus. The model will learn Magic The Gathering domain specific vocabulary.
+Use Masked Language Modeling self-supervised learning on Magic The Gathering json card corpus. The model will learn Magic The Gathering domain specific vocabulary. Use validation loss / perplexity, odd one out (card-to-card symmetric relationships) and recall@10 (query-to-card asymetric relationships) to evaluate MLM finetuned model performance against base model. 
 
 ## Stage 2: Supervised Fine-Tuning
 

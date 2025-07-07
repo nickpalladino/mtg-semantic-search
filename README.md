@@ -20,6 +20,36 @@ A triplet loss training set is used to fine tune the model relationships between
 
 `(anchor, positive, negative)`
 
+#### Query-to-card Asymmetric Examples
+
+Try to cover common strategies and player slang as well as finetune nuance of relationships.
+
+##### Strategies
+- Reanimate
+- Ramp
+- Bounce
+- Flicker
+- etc.
+
+#### Player Slang
+- Mana dorks
+- Mana rock
+- Tutors
+- Board wipes
+- Removal
+- Cantrips
+- Stax
+- etc.
+
+#### Triplet Examples
+```
+(synergy with Abuelo's Awakening, Omniscience, Wrath of God)
+(cards that work well with Abuelo's Awakening, Omniscience, Counterspell)
+(targets for Abuelo's Awakening, Omniscience, Crucible of Worlds)
+(cards to reanimate omniscience, Abuelo's Awakening, Zombify)
+(cards that reanimate enchantments, Abuelo's Awakening, Argivian Restoration)
+```
+
 Scryfall has a user curated tagging system that can be used to expedite training example creation. 
 
 `https://api.scryfall.com/cards/search?q=oracletag:counterspell-free`

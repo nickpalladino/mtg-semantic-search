@@ -4,7 +4,17 @@ Builds on https://github.com/minimaxir/mtg-embeddings which used gte-modernbert-
 
 This project expands on mtg-embeddings by fine tuning gte-modernbert-base with magic the gathering specific relationships. In addition to card-to-card relationships, query-to-card relationships will also be modeled. This will allow natural language searches to be performed in addition to searches by card name.
 
-# Training Set
+# Magic The Gathering Domain Specific Embedding Model
+
+Use a two stage approach to create a Magic The Gathering Domain specific embedding model. 
+
+## Stage 1: Self-Supervised Domain Adaptation
+
+Use Masked Language Modeling self-supervised learning on Magic The Gathering json card corpus. The model will learn Magic The Gathering domain specific vocabulary.
+
+## Stage 2: Supervised Fine-Tuning
+
+### Training Set
 
 A triplet loss training set is used to fine tune the model relationships between magic the gathering cards and from queries to cards. These are types of symmetric and asymmetric relationships which gte-modernbert-base had in training data and therefore gte-modernbert-base is still a good base model to use.
 

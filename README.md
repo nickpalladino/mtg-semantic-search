@@ -47,6 +47,17 @@ Try to cover common strategies and player slang as well as finetune nuance of re
 - Removal
 - Cantrips
 - Stax
+- Evasion
+- Card advantage
+- Wincon
+- Combat trick
+- Buff
+- etc.
+
+#### Guilds
+- Golgari
+- Simic
+- Izzet
 - etc.
 
 #### Triplet Examples

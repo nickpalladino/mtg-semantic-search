@@ -1,0 +1,58 @@
+- concept_name: Free Counterspells
+  positive_tag: otag:counterspell-free
+  queries:
+    - free counterspells
+    - zero mana counterspells
+    - ways to stop a spell without paying mana
+    - free counter spell
+    - delayed cost counterspells
+    - potentially free counterspell
+    - manaless counterspell
+  hard_negative_strategy:
+    parent_tag: otag:counterspell
+    orthogonal_tags:
+      - otag:cycle-fut-pact
+      - otag:cycle-c20-free-spell
+      - otag:cycle-bok-shoal
+      - otag:cycle-mh3-flare
+      - otag:cycle-mh1-force
+      - otag:cycle-pcy-pitchspell
+      - otag:phyrexian-mana-cost
+      - otag:cycle-mh2-incarnation
+  easy_negative_tags:
+    - otag:board-wipe
+    - otag:mana-rock
+
+- concept_name: Mana Dorks
+  positive_tag: otag:mana-dork
+  queries:
+    - mana dorks
+    - mana dork
+    - creatures that tap for mana
+    - one drop mana elves
+  hard_negative_strategy:
+    parent_tag: t:creature
+    orthogonal_tags:
+      - otag:mana-rock
+  easy_negative_tags:
+    - otag:burn
+    - otag:tutor
+    - t:land
+
+- concept_name: Board Wipes
+  positive_tag: otag:sweeper-creature-destroy
+  queries:
+    - board wipe
+    - wrath effects
+    - destroy all creatures
+    - wrath spells
+    - board wipes
+    - creature sweeper
+  hard_negative_strategy:
+    parent_tag: otag:removal
+    orthogonal_tags:
+      - otag:removal-single-creature
+  easy_negative_tags:
+    - otag:mana-dork
+    - otag:tutor
+    - t:enchantment c:w

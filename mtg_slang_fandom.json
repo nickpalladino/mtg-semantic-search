@@ -1,0 +1,1386 @@
+[
+    {
+        "term": "2-for-1/1-for-2",
+        "description": "Shorthand for counting cards exchanged in any clear scenario, in terms of card advantage or disadvantage. Can be used as noun or verb. Depending on the context, any numbers can be substituted, usually when it's straightforward when a card is being used or traded. A 2-for-1 occurs when a player uses one card and the opponent uses/loses 2 cards. Removing a Reality Smasher, for example, forces a 2-for-1, since the opponent must discard an additional card to cast a removal spell that targets it. 1-for-2 is less used than \"2-for-1-ing myself\", such as if with Force of Will, and usually the opponent is given credit for achieving a 2-for-1."
+    },
+    {
+        "term": "Accel",
+        "description": "Short for 'acceleration', accel is the elements in a deck that help it gain access to mana faster than the standard one-per-turn rate. It generally refers to placing additional mana-producing permanents into play, but also refers to one-use spells that provide a temporary mana boost (e.g. Dark Ritual ). The most famous category of acceleration cards are the Moxen and Black Lotus, which significantly increase the amount of mana available in the early turns of a game. Used interchangeably with ramp."
+    },
+    {
+        "term": "Aggro",
+        "description": "Short for 'aggressive', aggro is used to define a deck or archetype which is highly dependent on creature combat and aggressive attacks (also ' beatdown '). The aim is to develop an advantage in the game before the opponent. Usually, aggro decks have a low mana curve and try to overwhelm the opponent before they can build any board presence or stabilize."
+    },
+    {
+        "term": "Aggro-control",
+        "description": "A deck archetype that incorporates elements of both aggro and control decks. Aggro-control is similar to, and in many cases synonymous with, tempo."
+    },
+    {
+        "term": "Allied colors",
+        "description": "The five pairs of colors which are adjacent on the color wheel. The five Ravnican guilds associated with allied colors gave them names: Azorius ( / ), Dimir ( / ), Rakdos ( / ), Gruul ( / ) and Selesnya ( / ). These colors are ideologically similar to each other, although they differ in their approaches."
+    },
+    {
+        "term": "Alpha strike",
+        "description": "A final all-out attack for a lethal amount of damage, intended to win the game that turn."
+    },
+    {
+        "term": "Answer",
+        "description": "Noun: a card or series of plays which neutralizes a threat. Verb: to play such a card."
+    },
+    {
+        "term": "Anthem",
+        "description": "Named after Glorious Anthem, any effect that buffs or pumps all a player's creatures."
+    },
+    {
+        "term": "Archetype",
+        "description": "A specific branch of very influential or competitive decks in a metagame. Deck archetypes tend to revolve around a particular card, combo, or strategy. Any of the core strategy groups a deck can fall into. These are control, combo, or aggro ( beatdown ) (or some hybrid of these \"pure\" strategies)."
+    },
+    {
+        "term": "Aristocrat",
+        "description": "A creature with an activated ability involving sacrificing another creature. E.g. Teysa, Orzhov Scion; Falkenrath Aristocrat (the type namer); Varolz, the Scar-Striped. A deck archetype (\"Aristocrats\") that aims to benefit from sacrificing its own cards."
+    },
+    {
+        "term": "Attrition",
+        "description": "A strategy which aims to exhaust an opponent's resources, through use of one-for-one answers, discard, board sweepers. An opponent will eventually draw unusable cards (usually lands, termed flooding out ) and lose when they can take no useful game actions. The central game plan of control decks, and occasionally the plan for midrange decks. Diametrically opposed to tempo, where one plays to constrain an opponent's life and mana."
+    },
+    {
+        "term": "Abzan",
+        "description": "Clan of Tarkir representing / /. Now used as a wedge nickname for any White/Black/Green card or deck."
+    },
+    {
+        "term": "Azorius",
+        "description": "Ravnican guild representing /. Now used as an allied color pair nickname for any White/Blue card or deck."
+    },
+    {
+        "term": "Bait",
+        "description": "Noun: a card played with the expectation that the opponent will counter or destroy it, so that they will not be able to react to the next (presumably better) card played. Verb: to play such a card."
+    },
+    {
+        "term": "Bank",
+        "description": "The collection of items that are not found in hands, the battlefield, the graveyard, or the library, but still have a demonstrable effect on the game. Items in the bank include objects in the command zone, poison counters, energy counters, experience counters, and cards that are temporarily in exile, such as suspended spells."
+    },
+    {
+        "term": "Bant",
+        "description": "Alara shard representing / /. Now used to describe any Blue/White/Green card or deck."
+    },
+    {
+        "term": "Battle",
+        "description": "To attack, especially to attack with (a creature). \u201cBattle into\u201d can refer to potential blockers the opponent has, e.g. to \u201cbattle a 4/4 into their 2/2.\u201d Following March of the Machine, this may also refer to the battle permanent type."
+    },
+    {
+        "term": "Bear",
+        "description": "A 2/2 creature with no abilities that costs two mana, such as Grizzly Bears. See also: Hate Bear, Hill Giant, Gray Ogre."
+    },
+    {
+        "term": "Big",
+        "description": "Big (creature) \u2013 high power and toughness. Big (deck) \u2013 higher mana curve (than another deck), thus presumably containing more impactful threats."
+    },
+    {
+        "term": "Big Butt",
+        "description": "Refers to a creature with high toughness relative to its power, making it ideal for defense. Examples are the 1/4 Horned Turtle and the 1/7 Kami of Old Stone. It is less common, but not unheard of, for a creature with high power and low toughness to be referred to as having a \"small butt\"."
+    },
+    {
+        "term": "Bin",
+        "description": "Noun: the graveyard. Verb: to put a card into the graveyard, especially from hand or from the library (see also mill )."
+    },
+    {
+        "term": "Blank",
+        "description": "A card that is not relevant in the current board state or cannot be cast; a useless card (especially in hand or being drawn)."
+    },
+    {
+        "term": "Blow up",
+        "description": "To destroy (a permanent, especially a land). Interchangeable with \"explode\" or \"exploding\"."
+    },
+    {
+        "term": "Blowout",
+        "description": "A spell or line of play that is very good and punishes the opponent severely for a decision they made."
+    },
+    {
+        "term": "Board Wipe",
+        "description": "A spell that destroys, exiles, or otherwise neutralizes all creatures currently in play. Famous examples include Wrath of God and Jokulhaups. Also known as a board sweep or sweeper. Asymmetrical board wipes only affect some players instead of all of them (e.g. Ruinous Ultimatum ) and usually are significantly higher-cost than symmetrical board wipes."
+    },
+    {
+        "term": "Body",
+        "description": "A creature's power and toughness. Also can refer to a creature itself (especially in the context of combat), usually implying that it is reasonable but not amazingly powerful."
+    },
+    {
+        "term": "Bolt",
+        "description": "To deal three damage to a target. Originated from Lightning Bolt."
+    },
+    {
+        "term": "Bolt Test",
+        "description": "Another term for the Lightning Bolt Test. A small, powerful creature which attracts removal spells (like Lightning Bolt ). Usually refers to creatures so potentially dangerous that they are often killed or removed before they can affect the game. Hypnotic Specter and Birds of Paradise are classic examples of bolt bait."
+    },
+    {
+        "term": "Bomb",
+        "description": "A card powerful enough to change the course of the game on its own. Usually used in the context of limited formats, where drafting or opening a bomb greatly improves one's chances. This is largely due to the relative scarcity of quality removal and other answers in limited formats, compared to constructed."
+    },
+    {
+        "term": "Bombo",
+        "description": "A combo which seems to work, but upon further rules clarification is actually discovered to be invalid. A nonbo - a negative interaction between cards."
+    },
+    {
+        "term": "Boomer Magic",
+        "description": "An era of Magic design and gameplay that could be variously defined but typically, at the very latest, ended in 2019 i.e. the beginning of FIRE design and Horizons sets, or sets prior to Sixth Stage of Magic Design. The start of the era is unclear. The generational term \"(baby) boomer\" is reframed to be those who played Magic in those eras past, and the term facetiously notes how most cards in earlier era are no longer viable due to the higher power level in the Sixth Stage and beyond. It was also the era before the major shift in product focus, such as Commander, new booster types, Secret Lairs, the new format Pioneer and straight-to-Modern sets."
+    },
+    {
+        "term": "Boros",
+        "description": "Ravnican guild representing /. Now used as an enemy color pair nickname for any Red/White card or deck, such as the Boros Bushwhacker deck that was popular during Zendikar 's time in Standard."
+    },
+    {
+        "term": "Bounce",
+        "description": "Noun: An effect or spell that returns a permanent to its owner's hand. Verb: To return a permanent to its owner's hand."
+    },
+    {
+        "term": "BREAD",
+        "description": "Acronym for Bombs, Removal, Evasion, Aggro, Duds. A general guideline strategy for prioritizing picks and building a deck in limited formats."
+    },
+    {
+        "term": "Break",
+        "description": "Of a format, to create a deck so much more powerful than the other decks that it dominates the format's metagame. E.g. \"After Pro Tour Paris in 2011, Caw-blade broke Standard.\" Of a card, to create a deck in which that card becomes broken. E.g. \" Johnny's new deck is an attempt to break Spellweaver Helix in Modern.\""
+    },
+    {
+        "term": "Brewing",
+        "description": "To think about or design an original decklist or rogue deck. Sometimes refers to building decks in a format that is not well-defined, e.g. after a set rotation."
+    },
+    {
+        "term": "Broken",
+        "description": "A card that is overly powerful. Usually, if a player is playing the color(s) of a broken card, they can't afford to play without that card. The point at which a card is officially broken is of some debate within the Magic community; players frequently declare cards they hate to be broken, even if they're not. Likewise, it is frequently used sarcastically, e.g. \"Carnival of Souls? Man, that's broken!\" (or more precisely \"Buh-ROKEN!\")."
+    },
+    {
+        "term": "Burn",
+        "description": "Direct damage. Shorthand for mana burn (obsolete)."
+    },
+    {
+        "term": "Burn out",
+        "description": "To defeat an opponent using burn spells and abilities."
+    },
+    {
+        "term": "Butt-Breathing",
+        "description": "A creature ability that allows the creature to get a toughness boost for a certain amount of mana (usually white), multiple times in a turn. The term for this is similar to the enchantment aura Firebreathing but with the slang that toughness is referred to the creature's \" butt \". For instance, Tower Drake has butt-breathing: \": Tower Drake gets +0/+1 until end of turn.\" Also known as enthiccening."
+    },
+    {
+        "term": "Cantrip",
+        "description": "A spell or ability that has \"draw a card\" tacked on as an additional effect, such as Cremate, Snakeform, or Wildsize."
+    },
+    {
+        "term": "Card pool",
+        "description": "In a limited tournament, the set of cards a player has available to build a deck (in addition to basic land cards). The total set of cards that exist in a game or format for players to use."
+    },
+    {
+        "term": "cEDH",
+        "description": "Competitive Elder Dragon Highlander. Essentially, cEDH is Commander where everyone plays the best decks and tries as hard as possible to win."
+    },
+    {
+        "term": "Cellar",
+        "description": "The bottom of the library."
+    },
+    {
+        "term": "Chaff",
+        "description": "Unremarkable or interchangeable cards, unlikely to be part of a constructed deck. While new players and brewers may find use for them, the lack of demand means they are often relegated to being collected by store owners and sold as bulk or put into repacks. Very often used in the context of \"draft chaff,\" the remainder left after cards useful in other formats are taken home."
+    },
+    {
+        "term": "Cheat out/in",
+        "description": "To play a card, typically with a large mana cost, or put it into play without paying that mana cost or at a significantly reduced cost. This is commonly done with spells and abilities that put cards from the hand or graveyard on to the battlefield. Contrast with hardcast."
+    },
+    {
+        "term": "Cheerios",
+        "description": "Artifacts that cost 0 mana. The name Cheerios comes from the circle-shaped breakfast cereal, which could be described as looking like zeros."
+    },
+    {
+        "term": "Choice",
+        "description": "High choice: the player is making decisions about that game element. Their input affects how it functions. Low choice: the player is not making decisions about the gameplay element. They don't have any input into what it's doing."
+    },
+    {
+        "term": "Chonky",
+        "description": "A deck archetype with a higher mana curve (than another deck), thus presumably having more impactful threats (see Big)."
+    },
+    {
+        "term": "Chump-block",
+        "description": "A block made solely to preserve the blocking player's life total, where the blocking creature dies without killing the attacking creature."
+    },
+    {
+        "term": "Clock",
+        "description": "A threat that will lead to victory over an opponent in a finite number of turns, thus giving the opponent a known time limit in which they must either win or answer the threat. For example, if a player is at 20 life and an unblockable creature with a power of 4 is played by their opponent, that player is said to be on a 5-turn clock."
+    },
+    {
+        "term": "Color bleed",
+        "description": "A situation where a card has an effect that is usually not found in its colors, such as Mana Tithe, a white counterspell. See Color Pie."
+    },
+    {
+        "term": "Color screw",
+        "description": "A specific type of mana screw where a player, while perhaps having plenty of mana/acceleration, lacks the correct color to play certain spells. E.G., a player may have six Mountain s, but lacks the Swamp they need to cast a Wrecking Ball."
+    },
+    {
+        "term": "Combo",
+        "description": "(noun) Short for \"combination\". Card combination: Any combination of two or more cards which produces a beneficial effect, designed to gain an advantage over the opponent. One of the three basic archetypes along with aggro and control. Combo deck: A deck or archetype which uses a combo as its victory condition. The deck is designed entirely for the purpose of setting up and protecting the combo. (verb) to use the effects of multiple cards to create an advantage or game winning state. Also: \"combo off\""
+    },
+    {
+        "term": "Control",
+        "description": "Ways in which players use cards to control the flow of the game. Control card: Any card designed to help a player control cards in the game. Control cards might destroy an opponent's useful cards, keep an opponent from playing useful cards, or force the opponent to discard their cards before they can use them. One of the three basic archetypes along with aggro and combo. Control deck or archetype: A deck or archetype which attempts to gain a decisive advantage using control cards to hinder the opponent and protect its victory condition. A control deck makes sacrifices in speed in order to improve chances of playing past an opponent's defenses. Part of a deck: The controlling elements in a deck."
+    },
+    {
+        "term": "Crack",
+        "description": "To open a booster pack or equivalent. To sacrifice something for an effect. Most often said of fetch lands or artifacts. See also Pop. To attack (usually used as \"crack in\"). Overpowered; very good or too good (as \"cracked\", compare and derived from \"broken\")."
+    },
+    {
+        "term": "Crackback",
+        "description": "The opponent's anticipated counterattack following an attack. The damage that a player might receive \"on the crackback\" is an important factor in deciding whether they should attack or not."
+    },
+    {
+        "term": "Creatureball",
+        "description": "A creature with an X in its cost determining how big it's going to be. Mostly green. Named in analog to Fireball."
+    },
+    {
+        "term": "Cubing",
+        "description": "Playing Cube Draft."
+    },
+    {
+        "term": "Curve",
+        "description": "See mana curve. The notional mean power level of cards. The power level of a card can be judged by players as being \"above,\" \"on,\" or \"below\" the curve. For example, the power and toughness of creatures with mana value 2 is traditionally 2/2. A 2/2 creature with mana value 2 is considered on the curve, while a 3/3 of the same cost would be above the curve and a 1/1 creature would be below the curve. Often, but not always, creatures that are above or below the curve have a corresponding drawback or ability to balance the card."
+    },
+    {
+        "term": "Curve out",
+        "description": "To cast a series of spells \u201con-curve.\u201d For example, a 2-mana card on turn 2, a 3-mana card on turn 3, and a 4-mana card on turn 4. See mana curve."
+    },
+    {
+        "term": "Cut",
+        "description": "To remove a card from one's deck. A card that \u201cmakes the cut\u201d is included in a deck, especially at the time it was built, although often just barely."
+    },
+    {
+        "term": "Damage race",
+        "description": "A damage race (or simply a race) occurs when neither player is able to take firm control of the game. Their only course of action is to try to win the game before the other's creatures strike the finishing blow. Races are most often driven by one or both players having creatures with evasion (flying, \"can't be blocked\", etc.)."
+    },
+    {
+        "term": "Dead card",
+        "description": "A card that is irrelevant or unplayable in the current board state. This may also be expressed with the phrase dead draw if the card was just drawn from the deck."
+    },
+    {
+        "term": "Dead on Board",
+        "description": "A game state where both players know, based on the state of the battlefield and other public information, that one player will lose the game without the further commitment of resources. \"I'm at 4 life and I only have one blocker. If I don't draw a creature this turn, I'm dead on board to my opponent's alpha strike.\""
+    },
+    {
+        "term": "Decking",
+        "description": "To run a player's library out of cards, thus causing them to lose the game when they are unable to draw cards when required to do so (see winning and losing ). The original method of doing this involved the card Millstone. The process of decking is therefore also commonly known as milling (see mill ), while \"decked\" or \"decking\" is used when the last cards are removed."
+    },
+    {
+        "term": "Deck thinning",
+        "description": "Reducing the size of one's deck to increase the chances of drawing needed cards. This can occur during deckbuilding (when deciding what cards go in or out of the deck) or during a game itself, by taking some action that moves cards out of the library. For instance, fetch lands thin a player's deck by removing lands from the library."
+    },
+    {
+        "term": "\"Dies to removal\"",
+        "description": "A popular phrase and meme used to ascribe an unrealistic sense of vulnerability to a powerful permanent, normally creatures. The term evolved from the phrase \"dies to Doom Blade\", a metric used sarcastically when evaluating the quality of a creature after Doom Blade was first printed. Used often in a joking manner, saying that a creature \"dies to removal\" implies that a creature is only as powerful as an opponents inability to destroy it. This phrase is used in balance discussions, often sarcastically, when discussing power creep and overpowered cards."
+    },
+    {
+        "term": "Digging",
+        "description": "Looking for a specific card(s) in the deck for the current matchup or situation, primarily through the use of draw effects, looting effects, or looking at/revealing a number of cards from the top of the deck."
+    },
+    {
+        "term": "Dimir",
+        "description": "Ravnican guild representing /. Now used as an allied color pair nickname for any Blue/Black card or deck."
+    },
+    {
+        "term": "Discard outlet",
+        "description": "An ability that allows a player to discard cards at any time, often without paying a mana cost. This enables strategies that want certain cards in the graveyard or want to trigger madness effects."
+    },
+    {
+        "term": "Disintegrate",
+        "description": "\"If that creature would die this turn, exile it instead.\" Named after Disintegrate."
+    },
+    {
+        "term": "Disruption",
+        "description": "Cards that try to impede opponents' plays or get in the way of their strategy. Usually, this refers to hand disruption, like discard spells. However, counterspells or removal, for example, can also disrupt a combo."
+    },
+    {
+        "term": "Dome",
+        "description": "(verb) To deal direct damage to target player. (noun) A player being targeted by direct damage (as in the expression \"to go to the dome\")."
+    },
+    {
+        "term": "Dork",
+        "description": "A creature with unimpressive combat stats, to the point that players tend not to use them in combat at all. Commonly used to refer to utility creatures which have some other relevant ability. For example, mana dorks, like Llanowar Elves, tap for mana."
+    },
+    {
+        "term": "Drain",
+        "description": "A card that causes an opponent or creature to take damage or lose life while its controller gains life. Originated from Drain Life. Previously, cards would be restricted to gaining only as much as the damage dealt or life lost, in a form of lifelink, which when applied to multiplayer was excessive. The original clause of requiring all black mana was repeated twice but later removed. Typically, a black ability, but occasionally found in red/white as an overlap."
+    },
+    {
+        "term": "Draw Engine",
+        "description": "A card or small group of cards that allows the controller to repeatedly draw more cards than usual in a turn, to create card advantage in the game. Often used in the context of the components and strategy of a deck."
+    },
+    {
+        "term": "Draw-Go",
+        "description": "A period of gameplay during which a player simply draws a card and passes the turn. A draw-go situation can occur because a player is waiting for the other to make the first move, or when neither player has a beneficial spell to play and controls no important cards on the table. E.G., \"We played draw-go for several turns until I found a creature.\" Also a type of control deck."
+    },
+    {
+        "term": "Draw Hate",
+        "description": "A player draws hate when they are targeted by their opponents due to the power of their deck or a specific play. Usually used in the context of EDH."
+    },
+    {
+        "term": "Drop",
+        "description": "A permanent which can be played without major strategic consideration. Usually used in the context of \"2-drop\", \"3-drop\" etc., referring to the turn when a permanent can first be played, which is usually equal to its mana value."
+    },
+    {
+        "term": "Duals/Dual lands",
+        "description": "Any lands that produce two colors of mana, especially the original cycle of double-typed lands ( Tundra, Underground Sea, Badlands, etc.)."
+    },
+    {
+        "term": "Dud",
+        "description": "A card that is generally not worth playing, either because its mana cost is too high for whatever benefit it gives, or because the benefit it gives isn't particularly advantageous. Also Dreg or Dirt."
+    },
+    {
+        "term": "Dude",
+        "description": "A creature. Used more often when describing token creatures."
+    },
+    {
+        "term": "Durdle",
+        "description": "Taking game actions that do not have a visible effect on the board state or do not lead directly toward killing one's opponent; taking game actions that \"do nothing.\" The purpose of durdling is generally to improve one's in-hand card quantity or quality. Durdling is a common feature of defensive decks. \"Dude, you're playing Boros, why all the durdle? Just burn her dudes and swing.\""
+    },
+    {
+        "term": "Eat",
+        "description": "To block a small creature with a larger one so that only the attacking creature dies. Of a creature, to cause another creature to be sacrificed; \"My Thallid Omnivore eats my Saproling.\" Of a creature, to die to a removal spell preventing that spell from being used elsewhere; \"My elf ate a Lightning Bolt, which is as much value as I could have hoped to get out of it.\""
+    },
+    {
+        "term": "Edict",
+        "description": "An effect that forces an opponent(s) to sacrifice one or more creatures. Examples include Slum Reaper and Dictate of Erebos."
+    },
+    {
+        "term": "Eggs",
+        "description": "Cheap artifacts that can be cracked to get mana and/or draw cards. Almost always seen in the context of Second Sunrise decks like Stanislav Cifka 's winning deck from Pro Tour Return to Ravnica. Derived from the Odyssey \"egg\" cycle ( Skycloud Egg, Darkwater Egg, Shadowblood Egg, Mossfire Egg, Sungrass Egg )."
+    },
+    {
+        "term": "EDH",
+        "description": "Shortened form of Elder Dragon Highlander, the old name of the Commander format before it was officially recognized by Wizards of the Coast. See also Highlander."
+    },
+    {
+        "term": "Emergency valve",
+        "description": "A card that is meant to be a hoser to a specific set or mechanic, in case the mechanic is too strong as if the card was a \"valve\" for a \"hose\" meant to be used in emergencies. For example, Grafdigger's Cage is a hoser made in case graveyard-based effects in the original Innistrad block were too strong. Many color hoser cards are designed to be used in case a specific color or deck becomes too strong, the idea being that such a card will not be included in the main deck, but can be swapped in from the sideboard for specific matchups, such as Knockout Blow."
+    },
+    {
+        "term": "Enabler",
+        "description": "A card that helps facilitate a certain mechanic or strategy. In the context of Limited archetypes, they are typically two-colored signpost cards that help make the archetype work, such as how Form a Posse creates multiple Mercenary Tokens for the Mercenaries Aggro draft archetype ( ) in Outlaws of Thunder Junction. In other words, the signpost directly accomplishes the archetype's theme or helps providing the resources required for that theme."
+    },
+    {
+        "term": "Enemy colors",
+        "description": "The five pairs of colors opposite on the color wheel from one another. The five Ravnican guilds associated with enemy colors gave them names: Orzhov ( / ), Golgari ( / ), Simic ( / ), Izzet ( / ) and Boros ( / ). These colors are ideologically opposed to each other, although they still have things in common."
+    },
+    {
+        "term": "Engine",
+        "description": "A card or combination of cards that produce a powerful and repeatable effect that does not win the game on its own, but is effective in powering other strategies. Usually named after the effect they produce, such as draw engine, mana engine, creature engine. An engine often converts one resource into one or more other resources, with a net gain each time the cycle is repeated. Mind Over Matter converts cards in hand to untaps of permanents. Arcanis, the Omnipotent draws three cards when tapped. Together they create a draw engine which nets two cards every cycle. Engines often form the heart of combos and are therefore often restricted in certain formats due to being too effective."
+    },
+    {
+        "term": "EOT",
+        "description": "End of turn."
+    },
+    {
+        "term": "Esper",
+        "description": "Alara shard representing / /. Now used to describe any Blue/White/Black card or deck."
+    },
+    {
+        "term": "ETB",
+        "description": "Short for \"enters the battlefield\", used to refer to a variety of abilities which trigger when a creature enters the battlefield. Before M10, this was \"comes into play\" or CIP, and following Bloomburrow in 2024, this is reduced to \"enters.\""
+    },
+    {
+        "term": "Errata'd",
+        "description": "Named after the official document errata, the past verb of modifying of cards or mechanics due to rules quirks or evolving language. In common language, the term should simply be \"corrected\", but has developed as a verb by the community."
+    },
+    {
+        "term": "ETBT",
+        "description": "Shorthand for \"enters the battlefield tapped\", a common drawback on nonbasic lands. Sometimes pronounced \"itty bitty\". Before M10, this was \"comes into play tapped\" or CIPT."
+    },
+    {
+        "term": "EV",
+        "description": "Expected value, a statistical acronym from poker. The calculated mean of profit for a given action, taking all probabilities in account. Can be applied to events by calculating prizes and entry fees against the number of players, or packs by calculating average prices of cards. Can also be more casually for card evaluation or deckbuilding, but these are often done in jest as the equations would be supercomputer-level-complexity."
+    },
+    {
+        "term": "Evasion",
+        "description": "Any ability of a creature that improves its chances of damaging the defending player by restricting which creatures can block it (if any), like flying, landwalk or \"can't be blocked\"."
+    },
+    {
+        "term": "Explode",
+        "description": "To destroy (usually one or more permanents). Used interchangeably with \"blow up.\" \"I cast Armageddon. Everyone's lands get exploded.\""
+    },
+    {
+        "term": "F6",
+        "description": "Passing priority until the end of turn. Born from Magic Online's shortcut key for this action."
+    },
+    {
+        "term": "Face",
+        "description": "The opponent, in the context of targeting a spell or ability \"to the face.\" Also dome."
+    },
+    {
+        "term": "Fade",
+        "description": "To dodge the opponent potentially having or drawing a specific card that will win them the game, heavily disrupt one's plans, or otherwise swing the game in favor of the opponent (\"I need to fade their fourth copy of Cryptic Command this turn to have any chance of winning\"). Frequently used late-game or when one or both players are in topdecking situations. Another poker term ported into Magic. In reference to the fading mechanic and/or its associated fade counters."
+    },
+    {
+        "term": "Fast land",
+        "description": "A dual land that enters the battlefield untapped if the player controls a low number of other lands."
+    },
+    {
+        "term": "Fast mana",
+        "description": "Any effect that gives the user more than one mana greater than the mana they untapped with at the beginning of their turn. It may refer to the powerful mana artifacts like the moxen, two-mana lands like Ancient Tomb, or single-ability effects that generate more mana than spent, such as Seething Song. Generally avoided in recent times due to the density of effects making larger formats more combo-focused; was in primary red and secondary in black and green before its effective retirement. See also ritual."
+    },
+    {
+        "term": "Fatty",
+        "description": "A large (usually 4/4 or 5/3 or greater) creature, generally offensive in nature. A fatty is the opposite of a weenie."
+    },
+    {
+        "term": "Fat Pants",
+        "description": "A creature enchantment or equipment that increases the creature's toughness more than it increases its power. Originates from the card Hero's Resolve (aka Heroic Pants), which gives the enchanted creature +1 power but +5 toughness."
+    },
+    {
+        "term": "Fetch",
+        "description": "Noun - A fetch land. Verb - To use a fetch land's ability and sacrifice it to find another land. Similarly, \"fetchable\" lands are lands that can be searched with fetch lands. The design of fetchlands tends to refer to nonbasic lands with basic land types. Verb - To tutor up a card; searching the deck for a card and putting it into the hand. Also \" tutor.\""
+    },
+    {
+        "term": "FBB",
+        "description": "Foreign Black-bordered. Usually referring to the first printing of an older core set in a non-English language."
+    },
+    {
+        "term": "Finisher",
+        "description": "A card capable of winning or \u201cfinishing\u201d the game outright."
+    },
+    {
+        "term": "Firebreathing",
+        "description": "A creature ability that allows the creature to get a power boost for a certain amount of mana (usually red ), multiple times in a turn. The ability was first seen on the Alpha set's Shivan Dragon, which had the basic form of the ability \": Shivan Dragon gets +1/+0 until end of turn\". The name comes from the aura Firebreathing, which grants any creature the ability. The concept is that the red mana (fire) turns into a power boost (the fire hurts the creature's enemy more)."
+    },
+    {
+        "term": "Fire Up",
+        "description": "Temporarily turning a noncreature permanent, such as a manland or a vehicle, into a creature. \"I'll move to combat, fire up Mutavault, and attack for 2.\""
+    },
+    {
+        "term": "Fish",
+        "description": "Merfolk, or a deck using the Merfolk typal as its core."
+    },
+    {
+        "term": "Fizzle",
+        "description": "When a spell or ability fails to resolve and leaves the stack due to an illegal target(s), or that otherwise resolves without doing anything."
+    },
+    {
+        "term": "Flickering",
+        "description": "Exiling a permanent, then returning it to the battlefield, as with Ghostly Flicker or Flickerwisp. Originated with Urza's Destiny ' s Flicker. Used interchangeably with blinking; attempts have been made to differentiate between returning immediately or at the end of a turn, but as spells with Flicker in the name have used both styles, it is still in progress."
+    },
+    {
+        "term": "Flipwalker",
+        "description": "A double-faced card with a ( legendary ) creature that transforms into a planeswalker."
+    },
+    {
+        "term": "Floating",
+        "description": "Refers to a player's unspent mana, especially after that player has just played a spell or ability. Usually, a player will only tap as much mana as required by the particular spell or ability they wish to play, and only when they wish to play it. However, in various situations, a player may leave some amount of mana in their mana pool. Before the rule changes, this caused players to undergo mana burn upon losing unspent mana. The most common situation in which this occurs is when a player is using a recurring loop of spells or abilities to produce an arbitrarily large amount of mana. Each iteration of the loop produces extra mana, which is left floating until the player has acquired enough excess mana to achieve their desired end. A play might also do this in cases where they will cast a spell to destroy all lands by making sure they have tapped all the mana from their lands first before casting it. The rules require a player who has mana in their mana pool after spending some, or when passing priority, to announce what mana is left. This is usually accomplished with a set of dice or a notepad."
+    },
+    {
+        "term": "FNM",
+        "description": "Abbreviated form of Friday Night Magic."
+    },
+    {
+        "term": "Fog",
+        "description": "An effect that prevents combat damage that turn, named after Fog. Decks built around using such effects to stay alive are known as Turbo-Fog decks."
+    },
+    {
+        "term": "French vanilla",
+        "description": "A creature that only has an evergreen keyword ability."
+    },
+    {
+        "term": "FTW",
+        "description": "For The Win. Often declared as \"X for the win\" where X is the card that wins the game (directly or indirectly). The worse the card, the more likely the phrase will be used. \" Chimney Imp for the win!!\""
+    },
+    {
+        "term": "FWB",
+        "description": "Foreign white-bordered. The regular printing of a core set in a non-English language."
+    },
+    {
+        "term": "Gas",
+        "description": "Cards that you would like to draw, that are relevant, or that \u201cfuel\u201d your game plan. Generally, non-land cards. \"This hand is nothing but gas!\" Conversely, when you're at the end of the game and are low on resources, you've run out of gas."
+    },
+    {
+        "term": "Gauntlet",
+        "description": "A group of decks that are expected in a metagame or top decks to playtest against. \"Running the Gauntlet\" usually means playing an event where a lot of top decks will be played."
+    },
+    {
+        "term": "Geddon",
+        "description": "An effect that blows up all lands (or at least a lot of them). A shortened form of Armageddon."
+    },
+    {
+        "term": "GG",
+        "description": "Abbreviation for \"Good Game.\" Also said as \"geeg\" in a more sarcastic form."
+    },
+    {
+        "term": "Glass cannon",
+        "description": "A deck with high potential, but easily disrupted. Glass cannons are usually combo decks such as All-In Red and Elf-Ball."
+    },
+    {
+        "term": "Go big",
+        "description": "To invest some resource (mana is common, but it can be cards in hand or the graveyard, or simply a particular card sequence) to create an effect that is too large for the turn it is cast."
+    },
+    {
+        "term": "Go deep",
+        "description": "To play a strategy that is exceptionally ambitious, unlikely, and/or high-risk high-reward. Used primarily when discussing Limited formats. \"You're playing seven copies of Foundry Street Denizen?\" \"Yeah, I went really deep in this draft.\""
+    },
+    {
+        "term": "Go off",
+        "description": "When a combo player does their (usually game-winning) combo."
+    },
+    {
+        "term": "Go wide",
+        "description": "A creature-based strategy, often making use of tokens, to overwhelm the opponent by attacking with a huge number of small creatures, rather than a few very large creatures (which might be called going 'tall')."
+    },
+    {
+        "term": "God",
+        "description": "Optimal, as in \"God hand\" or \"God draw\", the best a player could have. E.g. \"With a God hand, this deck can pull off a turn three win.\" The best possible hand is also called \"the nuts\" or a \"nut draw\"."
+    },
+    {
+        "term": "God pack",
+        "description": "Also known as \"Goodstuff.dek\" in online variants of magic. \"Goodstuff\" refers to a deck that is usually built by including the \"best\" cards in a single deck. \"Delver\" decks in Eternal formats are a common example of a Goodstuff deck."
+    },
+    {
+        "term": "Goldfishing",
+        "description": "Playing without an opponent by drawing a starting hand and proceeding to play until a hypothetical opponent who does nothing is defeated. Used in basic initial deck testing."
+    },
+    {
+        "term": "Golgari",
+        "description": "Ravnican guild representing /. Now used as an enemy color pair nickname for any Black/Green card or deck."
+    },
+    {
+        "term": "Gray Ogre",
+        "description": "Any 2/2 creature with no abilities that costs three mana. Comes from Gray Ogre. See also: Bear, Hill Giant."
+    },
+    {
+        "term": "Griefer",
+        "description": "A player who enjoys another player's misery, tormenting their opponent by playing land destruction, countering all of their spells, or playing a deck that wins before the opponent can get off the ground. Also a card that furthers that goal."
+    },
+    {
+        "term": "Grinder",
+        "description": "Someone who plays game after game after game in order to get qualifying points, esp. at mid-level tournaments like PTQ's."
+    },
+    {
+        "term": "Grindy",
+        "description": "In Limited play especially, attempting to win through card advantage and attrition. It can also refer to formats where players amass large board states with no incentive or good ways to attack others."
+    },
+    {
+        "term": "Grip",
+        "description": "A hand of cards. A player with seven cards in hand is said to have a \"full grip\"."
+    },
+    {
+        "term": "Grixis",
+        "description": "Alara shard representing / /. Now used to describe any Blue/Red/Black card or deck."
+    },
+    {
+        "term": "Ground pounder",
+        "description": "A creature with a decently large body but without evasion or many relevant abilities."
+    },
+    {
+        "term": "Group Hug",
+        "description": "A strategy in multiplayer games based on helping the opponents with effects like Howling Mine or Heartbeat of Spring. A similar strategy known as Bear Hug helps opponents in a way that will ultimately harm them or provide them with an advantage."
+    },
+    {
+        "term": "Group slug",
+        "description": "A play on \"group hug\", a group slug is a multiplayer archetype involving shared pain, usually in the form of direct damage, life loss, or sacrifice. It typically involves permanents with triggered abilities that deal damage to opponents. Group slug decks are most often red or black."
+    },
+    {
+        "term": "Gruul",
+        "description": "Ravnican guild representing /. Now used as an allied color pair nickname for any Red/Green card or deck."
+    },
+    {
+        "term": "Hack",
+        "description": "To change the type of a card, as with Magical Hack."
+    },
+    {
+        "term": "Hard cast / Hardcasting",
+        "description": "Hardcasting, or \"paying retail\", describes playing a spell by paying its mana cost instead of using an alternative cost or other ability. For example, casting a pitch spell for its mana cost rather than its alternative cost."
+    },
+    {
+        "term": "Hard counter",
+        "description": "A counterspell which counters any spell unconditionally, like Cancel. The opposite would be a soft counter, which can't counter a spell all the time, such as Mana Leak."
+    },
+    {
+        "term": "Hard removal",
+        "description": "A removal effect that directly removes the target (usually a creature) as opposed to e.g. dealing an amount of damage to it or rendering it unusable."
+    },
+    {
+        "term": "Hate",
+        "description": "A hate card that is also a Bear, such as Leonin Arbiter or Ash Zealot."
+    },
+    {
+        "term": "Haymaker",
+        "description": "A card whose effect dramatically changes the game state. Often a splashy creature."
+    },
+    {
+        "term": "Heater",
+        "description": "Taken from the vernacular of poker, a \"heater\" is when everything is going right; a lucky streak."
+    },
+    {
+        "term": "Hellbent",
+        "description": "Having no cards in hand. Originated from the hellbent mechanic."
+    },
+    {
+        "term": "High flying",
+        "description": "A creature with flying that can only block creatures that also have flying, such as Cloud Djinn. Generally, a creature with high flying costs less than an otherwise-equivalent creature with flying."
+    },
+    {
+        "term": "Highlander",
+        "description": "A casual format in which, excluding basic lands, there can be no two cards with the same name in the deck. The term has its origins in the catchphrase of the movie Highlander: \"There can be only one\". This format goes by the name \" Singleton \" in the official Wizards of the Coast communications and advertising even though the format is almost exclusively referred to as Highlander by players. This is most likely to avoid any trademark issues that might arise. An ancestor of the now more popular Commander."
+    },
+    {
+        "term": "Hill Giant",
+        "description": "Any 3/3 creature with no abilities that costs four mana. Comes from Hill Giant. See also: Bear, Gray Ogre."
+    },
+    {
+        "term": "Hit",
+        "description": "To deal damage (by attacking with a creature)."
+    },
+    {
+        "term": "Hold up",
+        "description": "To keep resources needed to take a game action available, sometimes at the expense of taking other actions. A fairly common example is when a control player chooses not to cast a spell they could have, and instead passes the turn \"holding up\" mana in order to be able to counter a spell on their opponent's turn. \" \"He was holding up two blue, so I had to play around Counterspell.\""
+    },
+    {
+        "term": "Hoser",
+        "description": "A card, deck, or style of play that is extremely powerful against another certain deck or archetype. E.g. Wrath of God \"hoses\" or is a hoser of creature-based decks. See also: Hate."
+    },
+    {
+        "term": "House",
+        "description": "A card that is extremely powerful."
+    },
+    {
+        "term": "Imprisoning",
+        "description": "To stop a creature from blocking and attacking."
+    },
+    {
+        "term": "Impulse draw",
+        "description": "An effect that exiles cards from the top of your library and lets you play them on that turn only, such as Act on Impulse."
+    },
+    {
+        "term": "Impulsing",
+        "description": "Not to be confused with impulse draw. Effects that make you look at the top N cards of your library and put a card of a certain type in your hand. Named after Impulse."
+    },
+    {
+        "term": "In the air",
+        "description": "When attacking, combat damage dealt by creatures with flying. See also on the ground."
+    },
+    {
+        "term": "Inevitability",
+        "description": "In a given matchup, the deck with inevitability is the one that becomes more and more likely to win as the game continues. While still a theoretical science, inevitability can go to the deck with more threats, a better late game, an unstoppable trump card, or the deck that simply has more cards in its library to prevent decking."
+    },
+    {
+        "term": "Inflatable",
+        "description": "See Pumpable."
+    },
+    {
+        "term": "Izzet",
+        "description": "Ravnican guild representing /. Now used as an enemy color pair nickname for any Blue/Red card or deck."
+    },
+    {
+        "term": "Jank",
+        "description": "A card or deck that does not appear to be very good, often with regards to consistency. Also: a janky card."
+    },
+    {
+        "term": "Jeskai",
+        "description": "Clan of Tarkir representing / /. Now used as a wedge nickname for any Blue/Red/White card or deck."
+    },
+    {
+        "term": "Jund",
+        "description": "Alara shard representing / /. Now used to describe any Black/Red/Green card or deck."
+    },
+    {
+        "term": "Junk Rare",
+        "description": "A rare card that is considered to be of little or no value, and is quite cheap as a result. Examples include Dismiss into Dream and One with Nothing."
+    },
+    {
+        "term": "Kitchen table",
+        "description": "A casual play environment, often without clear formats. The name stems from the idea that it's players playing magic with what they have \"on the kitchen table\". The opposite of tournament play, kitchen table or \u201ccards I own\u201d is also the most popular way to play the game."
+    },
+    {
+        "term": "Land drop",
+        "description": "The one land you can play every turn, as opposed to any other lands you may be able to get onto the battlefield. See also drop, curve."
+    },
+    {
+        "term": "Landfall",
+        "description": "Triggered ability that occurs whenever a land enters the battlefield, named after the Landfall mechanic. For example, Evolution Sage or Tireless Tracker."
+    },
+    {
+        "term": "Landstill",
+        "description": "A deck featuring Standstill and manlands."
+    },
+    {
+        "term": "LD",
+        "description": "Land destruction \u2014 a viable but unpopular strategy for victory in which a player uses spells and abilities to destroy an opponent's land, making it impossible for them to play any spells."
+    },
+    {
+        "term": "Life swing",
+        "description": "A measure of a player's damage to the opponent plus any life gained in the same turn. A metric usually only used in racing situations, as both player's life totals are under stress, or in a single impactful combat that changes the tempo of the game."
+    },
+    {
+        "term": "Lightning Bolt Test",
+        "description": "AKA Bolt Test - A relatively simple test that measures the viability of a creature through whether or not it dies at a tactical loss to the one-mana removal spell Lightning Bolt, relevant in Modern and Legacy. Not necessarily definitive, but is a general starting point. While Fatal Push is another benchmark, Lightning Bolt is more pertinent due to being usable in all archetypes, while Fatal Push has been limited to midrange."
+    },
+    {
+        "term": "Legs",
+        "description": "Refers to a creature or other permanent that has an ability that a non-permanent card can produce. For example: Spore Frog is a \" Fog with legs\"."
+    },
+    {
+        "term": "Lethal",
+        "description": "Opportunity to deal enough damage to deplete the opponent's life to 0. \"Swinging for lethal\" refers to attacking with enough creatures to win the game."
+    },
+    {
+        "term": "Lobotomy",
+        "description": "A spell or effect that allows a player to search a zone - particularly a player's library - for specific cards and exile them. So-called since the first card printed with this effect was Lobotomy; other more recent examples include Surgical Extraction, Lost Legacy. and Slaughter Games."
+    },
+    {
+        "term": "Lock, lockdown",
+        "description": "During a match, a period where a player, through card interactions, has made it difficult or impossible for the opponent to mount an effective defense. \"Breaking out\" of a lockdown takes skill and luck, but often an effective lockdown will allow the lockdown player to secure victory before the other player can break out. In many tournament communities, decks are built with the tools to break out of locks, reducing the effectiveness of most lockdown cards. As a result, some decks specialize in lockdown strategies and use an arsenal of locks in order to form an exceptionally strong lockdown, followed by a swift victory."
+    },
+    {
+        "term": "Loot",
+        "description": "The action of drawing then discarding a card. Originated from Merfolk Looter."
+    },
+    {
+        "term": "Lucksack",
+        "description": "A consistently lucky person, usually used with a slightly resentful tone, i.e., \"He is such a lucksack, that Wrath of God won him the game!\" Also can be used in verb form, i.e., \"He lucksacked into that Corrupt!\""
+    },
+    {
+        "term": "Maindeck",
+        "description": "To include a card in your starting deck. Most often used in reference to cards that are usually placed in the sideboard, but for various metagame reasons are desirable to have in the first game of a match. For example, one might maindeck Hurkyl's Recall to have an advantage if artifact decks are prevalent in the metagame."
+    },
+    {
+        "term": "Manland, man land",
+        "description": "A land that can change into a creature. The most famous of these is Mishra's Factory from the Antiquities expansion, but may have been supplanted by Mutavault from recency bias."
+    },
+    {
+        "term": "Mana curve",
+        "description": "The distribution of mana values of spells in a deck. A deck is said to have a low curve if it has mostly cheap spells, or a high curve if it has more expensive cards. The top of the curve (or \"top end\") is the most expensive card(s) in your deck. A card is said to be \"played on curve\" if it is played as early as you could intend to cast it (usually on the turn corresponding to its mana value). A well-designed curve makes it likely that the first series of turns will have cards to play on curve, maximizing its tempo advantages and known as \"curving out\"."
+    },
+    {
+        "term": "Mana dork",
+        "description": "A low-cost creature such as Llanowar Elves, Birds of Paradise or Noble Hierarch that produces mana. Variant of dork."
+    },
+    {
+        "term": "Mana fixing",
+        "description": "An effect that helps you avoid color screw by helping you get the correct colors of mana to cast your spells. Dual lands are a common example."
+    },
+    {
+        "term": "Mana flood",
+        "description": "During a match, a situation where a player draws too many land cards and/or acceleration cards, resulting in too much available mana and too few useful spells."
+    },
+    {
+        "term": "Mana optimization",
+        "description": "A theory that is the basis for the mana curve. Mana optimization theory states that a player who best uses the mana available to them in every turn will win the game. Its most basic level applies to the player who uses the most mana in a turn, e.g. a player who spends 5 mana in a turn will be able to do more and more powerful things than a player with only 3 mana available. Conversely, the player who spends fewer resources to produce the same effect will have greater mana optimization."
+    },
+    {
+        "term": "Mana rock",
+        "description": "An artifact that taps for mana, such as Manalith, Fellwar Stone, or Dimir Signet. See Mana stone."
+    },
+    {
+        "term": "Mana sink",
+        "description": "A card that provides an opportunity to spend excess mana on. They usually are activated abilities and thus can be used turn after turn. Examples are Sacred Mesa ( ), Sphinx of Magosi ( ), Pestilence ( ), Dragon Roost ( ) and Centaur Glade ( )."
+    },
+    {
+        "term": "Mana screw",
+        "description": "Having too little mana, too much mana, or the wrong color(s) of mana."
+    },
+    {
+        "term": "Mana weaving",
+        "description": "The act of separating the main deck from the land cards, shuffling the deck, and then sticking the lands one by one into the deck to evenly distribute the land throughout the deck and reduce the chance of mana screw. This is against the rules and is one of the most well-known ways to cheat but endures due to be often told to beginners and with casual games."
+    },
+    {
+        "term": "Mardu",
+        "description": "Clan of Tarkir representing / /. Now used as a wedge nickname for any Red/White/Black card or deck."
+    },
+    {
+        "term": "MBC",
+        "description": "Mono- Black Control or Mono- Black Creatures."
+    },
+    {
+        "term": "Metagame",
+        "description": "(noun) The game outside the game \u2013 choices about what and how to play dictated by logic or community standards, rather than rules. (verb) To make choices about what deck to play or specific cards to include in a deck based on known or anticipated choices other players have recently made or will make."
+    },
+    {
+        "term": "Midrange",
+        "description": "A general archetype of deck focused on playing for the best efficiency on all spells. Proactive decks that flip the standard aggro-control deck archetype by playing fewer curve fillers and more efficient removal and card advantage."
+    },
+    {
+        "term": "Mirror breaker",
+        "description": "A sideboard card that is incredibly powerful in the mirror match, though not as efficient elsewhere. Most commonly used about large blue uncounterable creatures ( Pearl Lake Ancient, Sphinx of the Final Word, Hullbreaker Horror ) that are control mirror breakers, which are the most important subset of these designs, as otherwise control mirrors would take far too long in rounds."
+    },
+    {
+        "term": "Mirror match",
+        "description": "A match between very similar or identical decks, as though each player were playing their image in a mirror. Mirror match in which both players' decks and sideboards are identical, often from being in the same testing team. Match where the decks are not identical by color or several spells, but the strategic designs and a portion of cards are identical."
+    },
+    {
+        "term": "Misplay",
+        "description": "A mistake or blunder."
+    },
+    {
+        "term": "Mono-",
+        "description": "A prefix describing composed of a single aspect. Colors are most common, such as mono-blue, mono-red, but also strategically (mono-counters, mono-enchantments) or even facetiously (mono-2-for-1s, mono-Cats)."
+    },
+    {
+        "term": "MWM",
+        "description": "Abbreviation for Midweek Magic, a weekly event in Magic: The Gathering Arena."
+    },
+    {
+        "term": "Mythic Uncommon",
+        "description": "An uncommon (or non-rare) card that is extremely powerful in Limited, and so is picked more aggressively than most of the rares in a given set."
+    },
+    {
+        "term": "Narrow card",
+        "description": "A card that is only effective in a specific set of situations."
+    },
+    {
+        "term": "Naya",
+        "description": "Alara shard representing / /. Now used to describe any Red/White/Green card or deck."
+    },
+    {
+        "term": "Netdeck",
+        "description": "Any deck copied from the internet or a published tournament listing. The practice of using such decks is referred to as \"netdecking\". Sometimes used in a derogatory manner towards players who copy a deck simply because it is popular or successful, without actually understanding how to play it."
+    },
+    {
+        "term": "Nonbo",
+        "description": "An interaction between two or more cards that is disadvantageous instead of having a profitable effect (which would be a combo ). An example is Crystalline Sliver and Magma Sliver, since Crystalline Sliver gives shroud to each Sliver, preventing them from being targetable by other Slivers with Magma Sliver's ability."
+    },
+    {
+        "term": "Nonland",
+        "description": "Any card that doesn't have the land type."
+    },
+    {
+        "term": "Nope",
+        "description": "Slang for counterspells typically found in blue decks. Nope also represents the symbolic phrase for a deck commonly composed of control or removal spell cards. Nope \u2014 Counterspell and often symbolizes a blue mage."
+    },
+    {
+        "term": "Off-color",
+        "description": "An effect with a cost not in the main colors of a deck. It may refer to splashes, activated abilities ( Shalai, Voice of Plenty ), additional or alternative spell modes ( Travel Preparations, Vigorous Charge ), or mana producers ( Temple of Plenty or Mox Emerald in a nongreen deck)."
+    },
+    {
+        "term": "On a stick",
+        "description": "Refers to a permanent that has a repeatable ability that another card can produce. For example, Kamahl, Fist of Krosa is \" Overrun on a stick\". Can also refer to a card imprinted on an Isochron Scepter, which itself is sometimes referred to as \"The Stick\". More often than not refers to an artifact having the ability (hence, stick)."
+    },
+    {
+        "term": "On the ground",
+        "description": "When attacking, combat damage dealt by creatures without flying. See also in the air."
+    },
+    {
+        "term": "On the Play/On the Draw",
+        "description": "Phrases describing the player going first ( plays first) and second or later (has their draw step). Typically, only in reference to head-to-head matchups as the pace of the game is much more polarized than in multiplayer; multiplayer also has the player going first draw their card as well. Strategically it also informs a player's sideboarding, many decks have much better odds when on the play, and so pilots need to change their gameplan when on the draw."
+    },
+    {
+        "term": "Orzhov",
+        "description": "Ravnican guild representing /. Now used as an enemy color pair nickname for any White/Black card or deck."
+    },
+    {
+        "term": "Outs",
+        "description": "Ways for a losing player to get back into the game. See also mise, topdeck mode. Usage: \"When he enchanted his Uril, the Miststalker with Shield of the Oversoul, my only out was to topdeck a Terminus.\""
+    },
+    {
+        "term": "Package",
+        "description": "A subset of cards in a deck for a specific purpose, often a set of cards that can be found off of a tutor, that does not take up much space in a deck. For example, a common Stoneforge Mystic Package can include Lion Sash, Batterskull or Kaldra Compleat, for a total of 5-8 cards."
+    },
+    {
+        "term": "Pain land",
+        "description": "An untapped dual land that deals 1 damage to its controller to produce colored mana."
+    },
+    {
+        "term": "Pass out",
+        "description": "A card that is the last one picked in a booster draft. The players of the Pauper Magic format. Paupers spend less money on their hobby than players who also use uncommons and rares (especially chase rares )."
+    },
+    {
+        "term": "Permission",
+        "description": "A style of play that involves hardcore/dedicated counter-magic. The permission player attempts to counter every important spell the opponent plays, and simply to draw plenty of extra cards to ensure more counters are available. The term \"permission\" comes from the way the opponent will end up asking whether each of their spells resolves or is countered."
+    },
+    {
+        "term": "Piker",
+        "description": "A 2/1 creature for two mana. Named after Goblin Piker."
+    },
+    {
+        "term": "Pillow Fort",
+        "description": "A deck archetype or play strategy that discourages opponents from attacking a given player. Common examples include populating the battlefield with deathtouch creatures to block with, taxing the declare-attackers' step, or a number of similar strategies. The strategy is inherently defensive and is more common in slower, social formats like Commander."
+    },
+    {
+        "term": "Pinger",
+        "description": "A creature with an ability that deals 1 damage to a target (\"pinging\" it), usually by tapping. The archetypal examples are Prodigal Sorcerer and Prodigal Pyromancer. See also Tim."
+    },
+    {
+        "term": "Pitch",
+        "description": "To discard or exile a card from your hand as part of a cost. For example, Force of Will may be cast by pitching a blue card and paying one life (see pitch spell ). Wild Mongrel allows you to pitch a card to give it +1/+1."
+    },
+    {
+        "term": "Play around",
+        "description": "To play in such a way that you neutralize a given card that you suspect your opponent has in hand. \"He was holding up two blue, so I had to play around Counterspell.\""
+    },
+    {
+        "term": "Play pattern",
+        "description": "The most common way a card or mechanic gets played. Developing patterns that are enjoyable for even the loser is the ethos for Play Design. Conversely, cards like Tibalt's Trickery or Cauldron Familiar were deemed as unfun play patterns, regardless of their actual strength."
+    },
+    {
+        "term": "Playset",
+        "description": "Four copies of a card. This phrase is generally used either when referring to the number of cards in a deck or the number of which a player is in possession. Cards are often bought and sold in playsets."
+    },
+    {
+        "term": "Poke",
+        "description": "See ping."
+    },
+    {
+        "term": "Politics",
+        "description": "Players using their cards to help one another to defeat other players in Commander games. From a game design standpoint, \u201cpolitical\u201d means that some decisions are based on an element of diplomacy, that players have the ability to talk to each other to influence how their opponents choose to play. If you\u2019re playing a multiplayer game and the rules don\u2019t dictate your priorities, it\u2019s political. The only way for it not to be political is if you have house rules that dictate your actions (\u201cyou must always attack the opponent with the highest life total.\u201d). If your opponents are able to suggest what you should do, it\u2019s political."
+    },
+    {
+        "term": "Pop",
+        "description": "The act of sacrificing a permanent, usually for an effect, e.g. popping Pyrite Spellbomb to deal two damage to a target. In some areas, also known as \"cracking\" said permanent."
+    },
+    {
+        "term": "Pro-",
+        "description": "Short for protection from something, e.g. pro-blue means protection from blue."
+    },
+    {
+        "term": "Prison",
+        "description": "An effect, usually white but sometimes blue, which prevents a creature from attacking and/or blocking. Owes its name to Prison Term, but also includes effects such as Pacifism."
+    },
+    {
+        "term": "Proxy",
+        "description": "A card that represents another card in casual play. (Not used in reference to checklist cards, which are allowed in tournaments.)"
+    },
+    {
+        "term": "Pumping",
+        "description": "To temporarily increase a creature's power and/or toughness with a spell or ability. A \u201cpump spell\u201d is a spell that does just that (e.g. Giant Growth )."
+    },
+    {
+        "term": "Punch",
+        "description": "When a spell or ability causes a creature to deal non-combat damage to a creature, player, or planeswalker based on its power. Differs from a fight in that no damage is dealt in return, and from biting in that it is not limited to damaging creatures."
+    },
+    {
+        "term": "Race",
+        "description": "A board state in which both players are attacking every turn. They are \u201cracing\u201d to deal 20 damage first."
+    },
+    {
+        "term": "Rakdos",
+        "description": "Ravnican guild representing /. Now used as an allied color pair nickname for any Black/Red card or deck."
+    },
+    {
+        "term": "Ramp",
+        "description": "An effect that accelerates your mana, giving you an additional, reusable mana source beyond the usual one land per turn."
+    },
+    {
+        "term": "Rate",
+        "description": "The evaluated power level of a card, used instead of power due it being a game term otherwise. Usually an R&D term, and used by other game designers, as they are likely to refer to things as intentionally designed \"above\" or \"below\" rate rather than \"broken\" or \"weak\" as players would. A rate monster is a card where the mana cost is very aggressive for its effect."
+    },
+    {
+        "term": "RDW",
+        "description": "Red Deck Wins, used to describe a monocolored Red Burn deck."
+    },
+    {
+        "term": "Reanimation",
+        "description": "An effect that returns a card from a graveyard directly to the battlefield. Named for the card Reanimate, from Tempest."
+    },
+    {
+        "term": "Reclamation",
+        "description": "Any effect that gets cards out of the graveyard for reuse. Used most often to refer to effects like Reclaim and Disentomb that return a card from the graveyard to the hand."
+    },
+    {
+        "term": "Recursion",
+        "description": "A combo or strategy in which the goal is to reuse the same card or cards repeatedly to gain an advantage. For example, using Ghostly Flicker with Archaeomancer and another permanent with an ETB ability to get the Ghostly Flicker back and trigger the ETB effect multiple times."
+    },
+    {
+        "term": "Removal",
+        "description": "Spells that destroy or otherwise remove an opponent's permanents."
+    },
+    {
+        "term": "Reset button",
+        "description": "A card which wipes out one or more whole categories of permanents as if resetting the board state back to where it started. For example Armageddon, Jokulhaups, Nevinyrral's Disk and Wrath of God. See board wipe. Typically only said in the context of \"pushing the reset button\"."
+    },
+    {
+        "term": "Response, Responsive strategy",
+        "description": "Plays made in order to neutralize an opponent's threat. Responsive cards form the strategic base of any control deck."
+    },
+    {
+        "term": "Reverse sweep",
+        "description": "A match win where the player or a team loses the maximum amount of games in the match and wins out from there. Often used only in larger number of games than the standard best of three. Most common for five-game Pro Tour Top 8 matches where the structure is two games without sideboard and three games with; most decks do not have sideboards so impactful as be favored three games in a row (three games of an 80%-20% matchup gives a player 51% to win overall) which makes the event notable and becomes more impressive from there."
+    },
+    {
+        "term": "Ritual",
+        "description": "Cards like Dark Ritual or Rite of Flame that add a certain amount of mana as a one-time effect. More specifically, rituals tend to refer to the instant or sorcery spells that generate a net positive of mana for the purposes of Storm combo decks. Some creatures and other spells generate some mana less than or equal to their cost but are rarely considered in the same category. Rituals originated in black but have been shifted to red."
+    },
+    {
+        "term": "Rogue deck",
+        "description": "A deck that does not seem to follow the trends of a particular metagame. Using a deck or strategy that is unorthodox or non-conventional."
+    },
+    {
+        "term": "Roping",
+        "description": "The act of intentionally disconnecting a digital Magic client rather than properly conceding, causing the winner of the match to waste a few minutes while they wait for the timer to elapse. The name comes from the MTG Arena timing bank which is visualized as a slowly shortening golden rope. On Magic Online, the chess clock could also be forced to run out, but stronger ban enforcement made it rarer. May also refer to stalling or slow play."
+    },
+    {
+        "term": "RTFC",
+        "description": "Abbreviation for \"Read The F***ing Card \" or \"Read The Full Card\". Used facetiously against players who ask questions that the card itself answers if they had read it more carefully."
+    },
+    {
+        "term": "Rule Zero",
+        "description": "A philosophy in casual play groups that broadly states that rules changes are permissible, as long as the asker communicates their intentions beforehand."
+    },
+    {
+        "term": "Rummage",
+        "description": "The action of first discarding a card then drawing a card. Originating from \" Rummaging Goblin \". Also known as \"red Looting \", since this variant is red-exclusive."
+    },
+    {
+        "term": "Saboteur",
+        "description": "An ability that triggers when a creature deals combat damage to a player, e.g. Scroll Thief."
+    },
+    {
+        "term": "Sac Outlet",
+        "description": "Short for sacrifice outlet. An ability that allows a permanent to be sacrificed. This kind of ability is useful to fizzle spells that have other useful text, like Electrolyze (preventing the caster from drawing a card), or to prevent side-effects, like the exile clause on Lava Coil (allowing the creature to go to the graveyard, where it may be used again). Sac outlets are also a key component of strategies and combos which rely on creatures dying, such as those involving Academy Rector."
+    },
+    {
+        "term": "Sandbag",
+        "description": "To stockpile cards in one's hand rather than playing them. Sometimes done as a bluff but often for value, like holding lands to utilize landfall or retrace, or holding creatures to play around board sweepers."
+    },
+    {
+        "term": "Scam",
+        "description": "A Modern deck based off the combination of Grief and one-mana reanimating combat tricks such as Not Dead After All, or occasionally something like Ephemerate if paired with White. The end result is on turn one, the Scam player has 4/3 with Menace and the opponent has lost two cards of the Scam player's choosing from their hand. Due to how difficult it is to interact it was granted said nickname as their opponents have little agency to win from that point onwards. Fury was also another card in those lists but was \"fairer\" as it largely was \"only\" a 4/4 double striker. Compare to \"cheese\"."
+    },
+    {
+        "term": "Scoop",
+        "description": "To concede the game, \"scooping\" one's cards off the table. As lands are typically arranged in a line left-to-right, it provides a convenient way to collect cards together."
+    },
+    {
+        "term": "Searching",
+        "description": "Checking booster packs without opening them, to see if they contain desirable expensive cards. Pack wrappers of early Magic sets were made of is slightly translucent material, while the interior of the pack was a little taller than the cards. It is possible, therefore, to shove the cards around inside the pack, and then hold it up to the light, and by so doing, be able to read which cards are in it, without opening it."
+    },
+    {
+        "term": "Selesnya",
+        "description": "Ravnican guild representing /. Now used as an allied color pair nickname for any Green/White card or deck."
+    },
+    {
+        "term": "Send in",
+        "description": "To attack with (a creature)."
+    },
+    {
+        "term": "Serve",
+        "description": "To attack."
+    },
+    {
+        "term": "Shard",
+        "description": "A three-color grouping of a color and its two allies, forming an unbroken chain or arc on the color wheel. The five Shards of Alara gave them names: Bant ( / / ), Esper ( / / ), Grixis ( / / ), Jund ( / / ), and Naya ( / / )."
+    },
+    {
+        "term": "Shave",
+        "description": "To remove one or more copies of a card from a deck but still keep at least one copy, especially when sideboarding."
+    },
+    {
+        "term": "Shell",
+        "description": "An overall deck type or archetype which houses a particular card or combo. A shell might be a particular set of cards that are central to making a deck function, while the other cards in the deck might be freely swapped in and out as one pleases. A Legacy Nic Fit Deck, for example, usually has a shell of Veteran Explorer, Cabal Therapy, and Green Sun's Zenith, and is notable for being a shell that can house a variety of cards."
+    },
+    {
+        "term": "Shock land",
+        "description": "A dual land with two basic land types that enters the battlefield tapped unless the person playing it pays two life. Named for Shock, a spell that deals two damage, since having the land come in untapped is similar to shocking yourself."
+    },
+    {
+        "term": "Skies",
+        "description": "A draft archetype composed largely of flying creatures and various defensive measures. Almost always due to the distribution of flying amongst common creatures."
+    },
+    {
+        "term": "Side (in/out)",
+        "description": "The act of exchanging cards to and from the sideboard between games. A card added to the main deck is sided in, and a card removed from the main deck is sided out."
+    },
+    {
+        "term": "Signal",
+        "description": "The derived information from a drafted pack that players infer the colors of which the player passing to them intends to play. By evaluating the aggregate power level of the remaining colors and rarities, one can infer the sorts of cards that will be available to them in the draft. A player can also consciously signal by taking a card that will skew the rest of the pack in certain colors, and so signal to the player they pass to."
+    },
+    {
+        "term": "Silver bullet",
+        "description": "A card that, while not necessarily used all the time, is particularly good in a specific scenario or against a certain type of deck, especially if only one copy of the card is played in your deck. These cards are often found in sideboards and some decks play a wide variety of silver bullets with tutors to find the correct one for the situation."
+    },
+    {
+        "term": "Simic",
+        "description": "Ravnican guild representing /. Now used as an enemy color pair nickname for any Green/Blue card or deck."
+    },
+    {
+        "term": "Sligh",
+        "description": "A mono- red deck archetype that usually wins by gaining tempo on the opponent by playing cheap creatures followed by red damage spells that are used to destroy possible blockers. Named after a player who popularized the archetype."
+    },
+    {
+        "term": "Slow land",
+        "description": "The opposite of a fast land. A dual land that comes onto the battlefield untapped if the player already controls a certain number of other lands."
+    },
+    {
+        "term": "Slow-roll",
+        "description": "Deliberately delaying a play. Tactically, a player may avoid playing a winning spell if they believe the situation is probably \u2014 but critically not a certainty \u2014 to win. Theatrically, stalling after drawing a card may also be considered slow-rolling, giving their opponent a small amount of hope that they haven't lost yet. A cantrip where the card is drawn at later time rather than immediately, such as Feral Instinct. All cantrips printed before Weatherlight had the wording \"draw a card at the beginning of the next upkeep.\""
+    },
+    {
+        "term": "Smash",
+        "description": "To attack."
+    },
+    {
+        "term": "Smirk",
+        "description": "To attack, especially for a low value with a low number of weak creatures that you wouldn't normally be able to, because the opponent currently has no defenses (e.g. their creatures are all removed or tapped)."
+    },
+    {
+        "term": "Sol Land",
+        "description": "A land which taps for, such as Ancient Tomb ( Tempest ) or City of Traitors ( Exodus ). Named after Sol Ring ( Alpha ), an artifact which taps for."
+    },
+    {
+        "term": "Solidarity",
+        "description": "A combo deck featuring many blue instants and capable of winning on its opponent's turn."
+    },
+    {
+        "term": "Sorcery speed",
+        "description": "Refers to effects that can only be played at times when a player could normally cast sorcery spells. In contrast to fast effects, which may be played whenever a player has priority."
+    },
+    {
+        "term": "Spellslinger",
+        "description": "A draft archetype in which you play a minimal number of permanents and generally win by some sort of combo or massive burn spell."
+    },
+    {
+        "term": "Spellslinging",
+        "description": "Employees of WotC sitting down at a table at a tournament and challenging any and all comers to games of Magic, often showing off new cards."
+    },
+    {
+        "term": "Speed bump",
+        "description": "A small creature used to block a large attacker, holding it off for one turn. See also chump-block."
+    },
+    {
+        "term": "Spike",
+        "description": "A nickname for a player archetype/personality that focuses straightforwardly on winning, often without regard for the fun of those that \"Spike\" is playing with. Part of a series of nicknamed player archetypes defined by game designer Richard Garfield that designate players based on what they personally find enjoyable about any given game."
+    },
+    {
+        "term": "Splash",
+        "description": "To add cards of one color or strategy to a deck predominantly of another color (or colors) or strategy. E.g. \"My deck is white-blue splash red.\""
+    },
+    {
+        "term": "Splash damage",
+        "description": "A situation where hate against a popular deck hurts the strategies of other decks, even though they hate may not have been directed at them. This is an important consideration for deck-builders. See also: Metagame"
+    },
+    {
+        "term": "Square",
+        "description": "A creature whose power and toughness are the same, for instance, a Kalonian Tusker (3/3) or an Angel token (4/4). A square creature is equally strong on attack or defense, such as a Bear."
+    },
+    {
+        "term": "Squirrelcraft",
+        "description": "The combo of Squirrel Nest and Earthcraft, which generates any number of 1/1 Squirrel tokens."
+    },
+    {
+        "term": "Stabilize",
+        "description": "When one player is on the defensive (i.e. is not the beatdown player) they can be said to have \u201cstabilized\u201d when the aggressive player can no longer make profitable attacks and cannot win the game on one or two draw steps. Functionally, the aggressive player has run out of tempo and the game is now about attrition and card advantage. Also known as \"turn the corner\"."
+    },
+    {
+        "term": "Staple",
+        "description": "A basic effect that occurs in most sets: things like direct damage, counterspell, or discard. Also a prominent card in many decks in a particular format, eg. Sol Ring is a Commander staple."
+    },
+    {
+        "term": "Stats",
+        "description": "Also \u201ccombat stats\u201d or \u201cstatistics\u201d: a creature's power and toughness, as well as any relevant combat abilities, like first strike."
+    },
+    {
+        "term": "Stax",
+        "description": "A Vintage artifact deck designed to lock down the opponent with cards like Smokestack, Sphere of Resistance, and Crucible of Worlds. A Deck originally created as a metagame deck to counteract Gro-A-Tog and its fragile land base. Origin of the name has multiple theories: a derivation of the phrase $T4KS, which means The Four Thousand Dollar Solution; or partially inspired by the deck's extensive use of stacking multiple triggered abilities in upkeep; or the card name plural for Smokestacks is homophonic with \"stax\". The name has now come to refer to the archetype of prison decks that specifically cause the continual sacrifice of permanents."
+    },
+    {
+        "term": "Stompy",
+        "description": "An aggressive mono- green deck consisting of outrageously cheap fatties, generally with a mana curve topping off at two, and pump spells. Several Stompy decks run only nine lands total; by comparison, a lean Sligh deck wouldn't dare run less than eighteen, and most tournament-quality decks run a minimum of twenty-four."
+    },
+    {
+        "term": "Strictly better, strictly worse",
+        "description": "A card is \"strictly better\" than another card if it's not only better overall, but there's also no reasonable situation where the other card would be better - there's no drawback to balance out the advantages. For instance, Counterspell is a strictly better Cancel in almost every situation where both cards are legal."
+    },
+    {
+        "term": "Strip",
+        "description": "To sacrifice a land to destroy another. Comes from Strip Mine. To remove cards from an opponent's hand, usually by causing them to discard. \"I stripped his counter with Duress so I could combo off\""
+    },
+    {
+        "term": "Stripland",
+        "description": "Any land card that can be sacrificed to destroy another land."
+    },
+    {
+        "term": "Sultai",
+        "description": "Clan of Tarkir representing / /. Now used as a wedge nickname for any Black/Green/Blue card or deck."
+    },
+    {
+        "term": "Superfriends",
+        "description": "A deck primarily focused on planeswalkers."
+    },
+    {
+        "term": "Sweeper",
+        "description": "A board wiper."
+    },
+    {
+        "term": "Synergy",
+        "description": "The small, positive interactions of individual cards in a deck."
+    },
+    {
+        "term": "Tabling",
+        "description": "If a card \u201ctables\u201d while you are drafting, that means you have seen it twice, i.e., you passed it once and it went all the way around the table. See also wheel."
+    },
+    {
+        "term": "Tapped out",
+        "description": "Describes a player who has run out of mana, usually because all their mana-generating permanents have been tapped. Generally describes an player who shouldn't be able to act until their untap step. An important strategic and game design term, as high-impact spells are meant to tap their controller out and are vulnerable to uninterrupted counterplay. Conversely, a player who does not tap out could play instants, but their spells should be weaker for that luxury."
+    },
+    {
+        "term": "Tank",
+        "description": "To tank, or go into the tank, is to think about your next play for a long time. Derived from \"think tank\"."
+    },
+    {
+        "term": "Tax",
+        "description": "An effect that makes opponent's spells more expensive to cast, as if imposing a tax on them. For example, Reidane, God of the Worthy taxes certain spells by; they each cost more than normal."
+    },
+    {
+        "term": "Team",
+        "description": "The collection of all your creatures in play. As in, \u201cI\u2019ll send in my team.\u201d"
+    },
+    {
+        "term": "Tech",
+        "description": "A previously undiscovered improvement to an existing strategy, deck, or archetype. A card or use of a card which is an improvement on deckbuilding \u201ctechnology\u201d in the current metagame. Often an individual's innovation appearing in large tournament events, serving to throw other strategies off balance by changing some part of how a deck usually works. Tech is generally researched in secret by an individual or a team prior to a large tournament in order to keep competitors from knowing what tricks will be put into a competing deck. Tech cards are frequently advantageous in specific scenarios and are thus included in response to expectations of the metagame."
+    },
+    {
+        "term": "Telegraph",
+        "description": "To make play decisions or tap your mana in a way that leads your opponent to believe you have a given card."
+    },
+    {
+        "term": "Tempo",
+        "description": "How efficiently a player uses their mana. Tempo decks are usually mid-range decks that want to try and keep playing efficient answers and threats."
+    },
+    {
+        "term": "Temur",
+        "description": "Clan of Tarkir representing / /. Now used as a wedge nickname for any Green/Blue/Red card or deck."
+    },
+    {
+        "term": "Threat",
+        "description": "A card, usually a creature, puts an opponent under pressure. A threat puts the opponent under a clock or forces them to have an answer in order to avoid losing the game."
+    },
+    {
+        "term": "Throw",
+        "description": "AKA fling, chuck, etc. The act of expending cards (discarding from hand or sacrificing permanents) for the output of targeted damage. Usually in the context of having a repeatable engine capable of doing this conversion. Supposedly named after Fling, as many mechanically similar cards suggest an improvised projectile using that said resource. Examples include Goblin Bombardment, Seismic Assault, Pia and Kiran Nalaar, Goblin Grenade, Stormbind."
+    },
+    {
+        "term": "Tier",
+        "description": "Tiers are a 'measurement' to classify a card's or a deck's power level (tier 1, tier 2, tier 3). The power level can mean that a deck becomes popular \u2014 but weaker decks can be counted as tier 1 due to popularity, while stronger decks may live in lower tiers due to difficulty."
+    },
+    {
+        "term": "Timmy",
+        "description": "A nickname for a player archetype/personality that values playing big, powerful creatures and combat over cerebral, technical spellcasting. Often associated with Green players, \"Timmy\" is part of a series of player archetypes defined by game designer Mark Rosewater that designate players based on what they find enjoyable about a given game."
+    },
+    {
+        "term": "To the Air(!)",
+        "description": "Originating with the card Angelic Blessing, this can be said whenever a creature without flying gains flying. More frequently said when the now-flying creature is about to deal lethal damage."
+    },
+    {
+        "term": "Top 8",
+        "description": "In tournament play, a single-elimination tournament whose participants are chosen from those of a previous Swiss tournament. Winners will play each other in later rounds, and losers play each other for ranking. Placing anywhere in the top 8 is widely seen as a success for the player, their deck, and their team."
+    },
+    {
+        "term": "Topdeck",
+        "description": "Topdecking (sense 2): where a player has no cards in hand and relies solely on the cards they draw each turn to be able to play effectively. It is a situation players try to avoid as it means the player relies entirely on the luck of the draw. See also Draw-Go."
+    },
+    {
+        "term": "...to the head/dome/face",
+        "description": "'X to the head/face/dome' is a term used to announce damage dealt directly to a player instead of a creature. E.g. 'Deal 3 to the head' or ' Fireball for 6 to the dome'."
+    },
+    {
+        "term": "Tradebait",
+        "description": "A card that a player trades for not because they want the card for a deck or their collection, but because they might be able to trade it later on to someone else for cards that they are after."
+    },
+    {
+        "term": "Trade up",
+        "description": "Both definitions have the same connotation of getting more out of an exchange."
+    },
+    {
+        "term": "Tribe",
+        "description": "A large group of creatures which share a creature type and work well together in a deck. Such a deck is called a tribal deck. An example of a competitive tribe is Goblins, which work together in order to win with astounding numbers and force. Rebels previously had a similar strategy, allowing the Rebel player to win with sheer numbers and utility of creatures. Many other competitive tribe-based decks also exist. Wizards of the Coast replaced their use of the term \"tribal\" with \"typal\" in 2023 but has not discouraged players from continuing to use either term."
+    },
+    {
+        "term": "Trick, Combat trick",
+        "description": "A spell or ability used by a player to alter the outcome of a combat. Common ways in which this is achieved include increasing or decreasing a creature's power and/or toughness and by granting or removing abilities from a creature. Some instants remove the creature entirely from combat or play, and typically only count as a trick if the target is restrained to creatures in combat. Giant Growth is a classic green combat trick."
+    },
+    {
+        "term": "Tuck",
+        "description": "To put a card on the bottom of its owner's library, or shuffle it into its owner's library. For example, Condemn tucks an attacking creature."
+    },
+    {
+        "term": "Turn On",
+        "description": "When a deck is able to activate its game plan. Usually this means its combo can be activated, its engine is available, or its combo is ready. For example, a Tron deck is considered to have \"Turned On\" when all of its Urza's lands are in play, as it can then cast large spells for cheap."
+    },
+    {
+        "term": "Tutor",
+        "description": "A spell that allows a player to search their library for another card. Many such cards have \"Tutor\" in their name, a pattern established by Demonic Tutor and the four tutors from Mirage block ( Enlightened Tutor, Mystical Tutor, Worldly Tutor, and Vampiric Tutor ) and continued throughout the years with cards like Diabolic Tutor. Can be used as a verb, as in \"I'll tutor up my combo piece.\" See also silver bullet."
+    },
+    {
+        "term": "Typal",
+        "description": "A deck or strategy that relies on using many creatures that share a creature type and/or mechanically care about that creature type. Typal decks aim to utilise the unique strengths of a creature type to their advantage. Sliver decks focus on playing creatures that buff each other while Goblin decks use cheap Goblins and burn spells to defeat opponents before they can respond. Wizards of the Coast replaced their use of the term \"tribal\" with \"typal\" in 2023 but has not discouraged players from continuing to use either term."
+    },
+    {
+        "term": "UBER",
+        "description": "Acronym for \"Ultimate Big Endgame Ramp.\" A drafting strategy that aims to accelerate its mana development (e.g. with card draw, non-land mana sources, etc.) and survive the early game with defensive creatures and removal spells, in order to win with an expensive late-game threat."
+    },
+    {
+        "term": "Ultimate",
+        "description": "A planeswalker 's ability that provides the biggest effect at the cost of removing most loyalty counters. For example, the ultimate effect of Garruk, Primal Hunter has Garruk's controller put a 6/6 green Wurm creature token onto the battlefield for each land they control."
+    },
+    {
+        "term": "Un-sets",
+        "description": "Joke sets produced by Wizards of the Coast. So far there have been five Un-sets: Unglued, Unhinged, Unstable, Unsanctioned, and Unfinity. Cards from the first four Un-sets have silver borders (for example, Ass Whuppin' affects only silver-bordered permanents, meaning cards from Un-sets) and are not legal in any tournament, except for basic lands (which have black borders instead, or no borders in the case of Unstable). Beginning with Unfinity, all cards in the set have black borders and some are Eternal-legal. The non-legal cards are marked with a silver acorn symbol at the bottom of the cards, instead of a silver border."
+    },
+    {
+        "term": "Utility land",
+        "description": "A land that has an effect other than mana generation, such as Rogue's Passage."
+    },
+    {
+        "term": "Value",
+        "description": "Any sort of advantage or extra damage or effect that a player can get. Often, it is card advantage but for example, also playing a card with kicker without paying a kicker cost gets less \u201cvalue\u201d than waiting until you can cast it kicked."
+    },
+    {
+        "term": "Vanilla",
+        "description": "A creature with no rules text (text that grants the creature extra abilities), for example Grizzly Bears."
+    },
+    {
+        "term": "Variance",
+        "description": "How differently a gameplay element plays out from one play experience to the next. Circumstances or factors that are not entirely under a player's control, such as what decks they get paired against, which cards they draw and how often they win the opportunity to play first in a match. Players often talk about reducing variance by making plays whose outcome they can predict more accurately."
+    },
+    {
+        "term": "Voltron",
+        "description": "A deck archetype with the goal of casting one creature, then using other cards such as Auras and Equipment to enhance that creature and making it a true threat to the opponent. The archetype's name derives from the Japanese animated series Voltron which features several small robots that combine into one large robot."
+    },
+    {
+        "term": "Vomit out",
+        "description": "To play or cast a lot of cards. \"Once I cast Eureka, I'll just vomit out a bunch of stuff.\""
+    },
+    {
+        "term": "Walker",
+        "description": "Short for planeswalker."
+    },
+    {
+        "term": "Wedge",
+        "description": "A three-color grouping of a color and its two enemies that form a wedge shape, or an acute triangle, within the color wheel. The five clans of the Khans of Tarkir set, each associated with a wedge, gave them names: Abzan ( / / ), Jeskai ( / / ), Sultai ( / / ), Mardu ( / / ), and Temur ( / / )."
+    },
+    {
+        "term": "Weenie",
+        "description": "A small creature, with low power and toughness. Any archetype or deck which uses Weenies as the victory condition is also referred to as a Weenie Deck, most commonly in white, hence \"White Weenie\". Usually abbreviated to lowercase 'w' to distinguish it from the color W and preceding it by the color of the deck; White Weenie becomes Ww, and Black-White Weenies becomes BWw."
+    },
+    {
+        "term": "Whale",
+        "description": "A player who is willing to spend large amounts of money on collectible products. Usually a whale constantly buys high value sealed product, such as Secret Lair drops, From the Vault cards, and Collector Boosters."
+    },
+    {
+        "term": "Whiff",
+        "description": "When using an effect that causes a player to look at a number of cards from the top of their deck, pick some of them and get rid of the rest, a situation when there turn out to be no legal choices for picking."
+    },
+    {
+        "term": "Win condition",
+        "description": "The method that a deck uses to win; for example, a rapid stream of cheap creatures for aggro, a specific creature (e.g. a Voltron ) and support, milling the opponent's library, or an alternative win condition card such as Azor's Elocutors. The power of individual cards would then determine the strength of the deck's win condition, while disreputability and stability determine its consistency. Often shortened to \"win-con\"."
+    },
+    {
+        "term": "Windmill slam",
+        "description": "A booster draft pick that is especially easy to make because of how powerful and exciting the card is. Can be a noun or a verb. Comes from the \"windmill\" action of taking a card from the pack, raising one's arm high, and slamming it down on the table in excitement. Often shortened to \"Slam\". See also: bomb, snap-pick. \" Archangel Avacyn is a windmill slam first pick in Shadows over Innistrad draft.\" \"Hey, what would you have taken out of this pack?\" \"Slam the planeswalker. It's a bomb.\""
+    },
+    {
+        "term": "WotC or Wizards",
+        "description": "Short for Wizards of the Coast, the company behind Magic: The Gathering, sometimes humorously pronounced as \"Wot-see\"."
+    },
+    {
+        "term": "Wrath",
+        "description": "A spell or effect which destroys or removes all creatures in play \u2013 named for the original card, Wrath of God."
+    },
+    {
+        "term": "WUBRG",
+        "description": "The five colors of Magic: W hite, Bl u e, B lack, R ed, and G reen. Pronounced \"woo-berg.\""
+    },
+    {
+        "term": "X-spell",
+        "description": "A spell with X in its mana cost."
+    },
+    {
+        "term": "Yard",
+        "description": "Short for graveyard. Gavin Verhey (August 3, 2005). \" Encyclopedia Magica \". MTG Salvation. Ted Knutson (September 9, 2006). \" Magic Jargon \". magicthegathering.com. Wizards of the Coast. Reid Duke (September 21, 2015). \" Glossary of Terms \". magicthegathering.com. Wizards of the Coast."
+    }
+]
